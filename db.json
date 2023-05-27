@@ -10,6 +10,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+ "comments2": [
+    { "body": "some comment", "postId": 1 },
+    { "body": "some comment", "postId": 1 }
+  ],
   "profiles": [
     {"Id":"b868b9d3-4557-4924-8e85-45e369011fe1","Correo":"roberto@gmail.com","Password":"123","Nombre":"roberto","ApellidoPaterno":"may","ApellidoMaterno":"vergara","Localidad":"Calkiní","Telefono":"0000000000","Foto":"51802131-d73b-490e-901a-634b978afe42.gif"},
     {"Id":"971e850c-5b09-4e21-8246-fe8674035b9d","Correo":"bere@gmail.com","Password":"123","Nombre":"Berenise","ApellidoPaterno":"Ku","ApellidoMaterno":"Centeno","Localidad":"Calkiní","Telefono":"0000000000","Foto":"0383c8e2-e217-4a54-94cf-0c98006651eb.png"},
