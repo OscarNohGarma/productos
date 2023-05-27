@@ -5,7 +5,12 @@
  {"Id":"d124c5d1-7822-42fe-8f0d-1d3e504c9c99","Nombre":"Tenis Nike","Descripcion":"Tenis nike, cómodos, color azul agua marina.","Precio":1200,"Foto":"bfd484da-e315-4894-abc2-df03855d7fb1.jpg"},
  {"Id":"ba6f3e8f-ebf9-4b92-98da-6a8af4c35ac7","Nombre":"Supertips 100 Crayola","Descripcion":"Plumones de la marca Crayola, modelo Supertips, contiene 100 piezas con diferentes colores cada uno, ideal para tus trabajos.","Precio":900,"Foto":"06e5c1f1-7101-46e2-91f6-97ca3bb7ba2d.jpg"},
  {"Id":"34048a50-7ee5-4b7d-babf-05aa37e0294e","Nombre":"Funko Pop Cinamorroll","Descripcion":"Funko Pop 59, Cinamorroll, nuevo.","Precio":400,"Foto":"5b8566a7-3193-4f9f-b0f0-850c7652486f.jpg"}],
- "profile": {
+ "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
     "name": "typicode"
   }
+
 }
