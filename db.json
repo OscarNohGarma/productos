@@ -11,8 +11,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
  "comments2": [
-    { "body": "some comment", "postId": 1 },
-    { "body": "some comment", "postId": 1 }
+    { "body": "some comment"},
+    { "body": "some comment"}
   ],
   "profiles": [
     {"Id":"b868b9d3-4557-4924-8e85-45e369011fe1","Correo":"roberto@gmail.com","Password":"123","Nombre":"roberto","ApellidoPaterno":"may","ApellidoMaterno":"vergara","Localidad":"Calkiní","Telefono":"0000000000","Foto":"51802131-d73b-490e-901a-634b978afe42.gif"},
